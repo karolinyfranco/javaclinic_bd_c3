@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5b067b8-9a50-4c0c-b0ba-b2c97c2140ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/DIAGRAMA_RELACIONAL.architect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/DIAGRAMA_RELACIONAL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/create_tables_javaclinic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/insert_samples_records.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/insert_samples_related_records.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/ConexaoMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/ConexaoMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/MigrarMySQLParaMongo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerConsulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerMedico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerPaciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Especialidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/principal/PrincipalMigracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/reports/Relatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/MenuUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/ValidatorUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35UYGVoj637KPeqHem7IaRrAzn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalMigracao.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/luana/Projects_Faesa/javaclinic_bd_c3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luana\Projects_Faesa\javaclinic_bd_c3\diagrams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.faesa.javaclinic_bd_c3.principal.Principal" />
+      <module name="javaclinic_bd_c3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.faesa.javaclinic_bd_c3.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalMigracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.faesa.javaclinic_bd_c3.principal.PrincipalMigracao" />
+      <module name="javaclinic_bd_c3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.faesa.javaclinic_bd_c3.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.PrincipalMigracao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5b067b8-9a50-4c0c-b0ba-b2c97c2140ed" name="Changes" comment="" />
+      <created>1763166023288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763166023288</updated>
+    </task>
+    <servers />
+  </component>
+</project>
