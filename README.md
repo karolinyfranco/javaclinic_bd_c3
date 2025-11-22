@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte da disciplina de Banco de Dados, com Ja
 
 ## Vídeo do Funcionamento do Projeto
 
-Link para o vídeo no Youtube:
+Link para o vídeo no Youtube: https://www.youtube.com/watch?v=DOF1uYX27R4
 
 
 ## Funcionalidades

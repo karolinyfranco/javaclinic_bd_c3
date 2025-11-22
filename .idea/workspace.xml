@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b067b8-9a50-4c0c-b0ba-b2c97c2140ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/DIAGRAMA_RELACIONAL.architect" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/DIAGRAMA_RELACIONAL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/create_tables_javaclinic.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/insert_samples_records.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/insert_samples_related_records.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/ConexaoMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/ConexaoMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/conexion/MigrarMySQLParaMongo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerConsulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerMedico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/controller/ControllerPaciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Especialidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/principal/PrincipalMigracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/reports/Relatorios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/MenuUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/SplashScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/faesa/javaclinic_bd_c3/utils/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalMigracao.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/luana/Projects_Faesa/javaclinic_bd_c3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalMigracao.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/luana/Projects_Faesa/javaclinic_lpoo_c3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\luana\Projects_Faesa\javaclinic_bd_c3\diagrams" />

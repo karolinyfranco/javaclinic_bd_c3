@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.faesa.javaclinic_bd_c3</groupId>
+    <groupId>br.faesa</groupId>
     <artifactId>javaclinic_bd_c3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
