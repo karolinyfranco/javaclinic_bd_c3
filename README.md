@@ -215,11 +215,10 @@ No arquivo pom.xml, as dependências do MySQL Connector/J e do MongoDB Driver fo
     </dependency>
 </dependencies>
 ```
-## Autores
+# Autores
+Projeto desenvolvido por alunos do curso de Ciência da Computação — FAESA, para a disciplina de Banco de Dados (C3). Todos os integrantes do grupo contribuiram para o desenvolvimento da aplicação.
 
-Desenvolvido por alunos do curso de Ciência da Computação — FAESA, para a disciplina de Banco de Dados (C3).
-
-- Ana Luiza Menelli Taylor: [@analuizataylor](https://github.com/analuizataylor)
-- Felipe Valério Rocha: [@sabugoestrela](https://github.com/sabugoestrela)
-- Gustavo Rissoli Vicente: [@GustavoRissoli](https://github.com/GustavoRissoli)
-- Karoliny Vicente Franco: [@karolinyfranco](https://github.com/karolinyfranco)
+- *Ana Luiza Menelli Taylor* [(@analuizataylor)](https://github.com/analuizataylor): Responsável pela implementação da Tela de Splash Screen e Menus de navegação.
+- *Felipe Valério Rocha* [(@sabugoestrela)](https://github.com/sabugoestrela): Responsável pela elaboração dos Relatórios e Documentação do projeto.
+- *Gustavo Rissoli Vicente* [(@GustavoRissoli)](https://github.com/GustavoRissoli): Responsável pela edição do Vídeo e criação dos Diagramas.
+- *Karoliny Vicente Franco* [(@karolinyfranco)](https://github.com/karolinyfranco): Responsável pelo desenvolvimento dos Controllers da aplicação, Integração com o Banco de dados e  Estruturação do código.
